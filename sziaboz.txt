@@ -1,1 +1,5 @@
 ide írj majd nekem szarságokat
+Milyen jellegű szarságar vagy kíváncsi?
+Van HTML
+CSS
+ezek az alapszarságok.
