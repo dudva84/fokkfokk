@@ -1,1 +1,3 @@
 # fokkfokk
+Nagyonfokk..
+ezazami fokk
