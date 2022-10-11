@@ -3,3 +3,4 @@ Milyen jellegű szarságar vagy kíváncsi?
 Van HTML
 CSS
 ezek az alapszarságok.
+jó sok szarság.
